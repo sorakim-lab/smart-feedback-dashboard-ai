@@ -1,0 +1,11 @@
+doc_id,title,document_type,owner,team,created_date,current_status,total_rounds,final_outcome,delay_risk
+DOC-001,Method Transfer Protocol for Protein A-HPLC,Protocol,Sora Kim,QC,2026-02-03,In Review,3,Pending,High
+DOC-002,Deviation Investigation Summary for EM Review,Report,J. Lee,QA,2026-02-10,Revision Requested,2,Pending,Medium
+DOC-003,SOP Revision for Sample Labeling Workflow,SOP,M. Park,QC,2026-01-28,Approved,4,Approved,Medium
+DOC-004,Stability Test Data Review Checklist,Checklist,H. Choi,Analytical Science,2026-02-14,In Review,2,Pending,Low
+DOC-005,Change Control Assessment for Vault Update,Assessment,Sora Kim,Quality Systems,2026-02-18,Revision Requested,3,Pending,High
+DOC-006,Reference Standard Qualification Summary,Report,Y. Han,QC,2026-02-07,Approved,2,Approved,Low
+DOC-007,CAPA Extension Justification Memo,Memo,Sora Kim,QA,2026-02-20,In Review,3,Pending,High
+DOC-008,Analytical Procedure Technology Transfer Plan,Plan,E. Jung,QC,2026-02-01,Approved,3,Approved,Medium
+DOC-009,Review Log for Batch Release Supporting Docs,Log,K. Lim,QA,2026-02-16,In Review,2,Pending,Medium
+DOC-010,Template Standardization Proposal for GMP Records,Proposal,Sora Kim,Quality Systems,2026-02-25,Draft,1,Pending,Low
