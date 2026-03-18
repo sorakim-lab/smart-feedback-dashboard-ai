@@ -1,0 +1,26 @@
+comment_id,doc_id,round_no,reviewer,issue_category,issue_text,severity,resolved,repeated_flag
+CM-001,DOC-001,1,J. Lee,Reference Missing,Section 4 does not cite the supporting SOP for buffer preparation,High,False,True
+CM-002,DOC-001,1,J. Lee,Wording Ambiguity,Acceptance criteria wording is unclear in the method transfer section,Medium,False,True
+CM-003,DOC-001,2,M. Park,Formatting Inconsistency,Header numbering is inconsistent between sections 5 and 6,Low,True,False
+CM-004,DOC-001,2,M. Park,Reference Missing,Cross-reference to validation summary is still missing,High,False,True
+CM-005,DOC-002,1,H. Choi,Traceability Gap,Raw data linkage is not explicit in the deviation summary,High,False,True
+CM-006,DOC-002,1,H. Choi,Wording Ambiguity,Root cause statement reads as too broad and non-specific,Medium,True,False
+CM-007,DOC-002,2,H. Choi,Traceability Gap,Attachment mapping for the supporting evidence is still incomplete,High,False,True
+CM-008,DOC-003,1,Sora Kim,Formatting Inconsistency,Table style differs from current SOP template,Low,True,False
+CM-009,DOC-003,2,Y. Han,Reference Missing,Appendix reference missing in training impact section,Medium,True,False
+CM-010,DOC-003,3,H. Choi,Wording Ambiguity,Instruction step could be interpreted in two ways,Medium,True,True
+CM-011,DOC-004,1,Sora Kim,Template Gap,Checklist does not include reviewer signature field,Medium,False,False
+CM-012,DOC-004,1,Sora Kim,Formatting Inconsistency,Date field position differs from standard form layout,Low,True,False
+CM-013,DOC-005,1,K. Lim,Identification Failure,Title does not allow reviewer to identify system impact at a glance,High,False,True
+CM-014,DOC-005,1,K. Lim,Prioritization Failure,Due date visibility is insufficient for queue triage,High,False,True
+CM-015,DOC-005,2,J. Lee,Identification Failure,Change category is still not obvious in the current layout,High,False,True
+CM-016,DOC-005,2,J. Lee,Workflow Mismatch,Field sequence does not match actual reviewer workflow,Medium,False,False
+CM-017,DOC-007,1,M. Park,Justification Weakness,Rationale for CAPA extension is too short for QA review,High,False,True
+CM-018,DOC-007,1,M. Park,Reference Missing,Related deviation number is not clearly cited,Medium,False,True
+CM-019,DOC-007,2,K. Lim,Justification Weakness,Extension rationale still lacks timeline-based explanation,High,False,True
+CM-020,DOC-007,2,K. Lim,Closure Pressure,Text appears optimized for closure rather than exploration of contributing factors,Medium,False,False
+CM-021,DOC-008,1,Sora Kim,Formatting Inconsistency,Abbreviation formatting differs from protocol standard,Low,True,False
+CM-022,DOC-008,2,J. Lee,Reference Missing,Transfer acceptance matrix should be cross-referenced in section 7,Medium,True,False
+CM-023,DOC-009,1,Y. Han,Traceability Gap,Supporting document list is incomplete for batch review context,High,False,True
+CM-024,DOC-009,2,Y. Han,Traceability Gap,Document linkage still does not cover all referenced records,High,False,True
+CM-025,DOC-010,1,H. Choi,Template Gap,Standard field naming has not yet been aligned across templates,Medium,False,False
